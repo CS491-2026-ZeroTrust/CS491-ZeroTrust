@@ -1,6 +1,11 @@
 /* Add an entry here and a card appears automatically. */
 const deliverables = [
     {
+        title: "Project Information Form",
+        date: "2026-10-23",
+        path: "deliverables/CS491_Project_Information_Form_ZeroTrust.pdf"
+    },
+    {
         title: "Assessment of Innovation Form",
         date: "2026-10-23",
         path: "deliverables/ZeroTrust_Assessment_of_Innovation_Form_v4-signed.pdf"
